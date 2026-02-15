@@ -1,7 +1,7 @@
-echo "# Pythagoras---SG---Intro" >> README.md
+Pythagoras - SG - Intro
 git init
-git add README.md
+git add .
 git commit -m "first commit"
 git branch -M main
-git remote add origin https://github.com/TorbenRudbeck/Pythagoras---SG---Intro.git
+git remote add origin https://github.com/DIT-BRUGERNAVN/pythagoras-vault.git
 git push -u origin main
